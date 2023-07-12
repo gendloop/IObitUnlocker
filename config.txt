@@ -1,5 +1,5 @@
 
 PROJECT_NAME=IObitUnlocker
 IObitUnlocker_VERSION_MAJOR=1
-IObitUnlocker_VERSION_MINOR=0
+IObitUnlocker_VERSION_MINOR=3
 IObitUnlocker_VERSION_PATCH=0
